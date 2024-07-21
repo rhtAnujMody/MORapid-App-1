@@ -1,0 +1,3 @@
+[submodule "MO-RAPID"]
+	path = MO-RAPID
+	url = git@github.com:rhtAnujMody/MO-RAPID.git
